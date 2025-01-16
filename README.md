@@ -1,0 +1,2 @@
+# Exploration-of-Marketing-Strategies-in-Live-Stream-Sales
+Conducted a study on marketing strategies in live-stream sales using SEM, analyzing 500+ survey responses. Identified factors like influencer impact, incentives, and perceived usefulness driving consumer trust and purchase behavior. Proposed actionable strategies to optimize live-stream sales. Recognized as an Outstanding Undergraduate Thesis.
