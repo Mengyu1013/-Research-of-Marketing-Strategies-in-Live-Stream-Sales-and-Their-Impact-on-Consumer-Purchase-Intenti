@@ -1,4 +1,4 @@
-# Exploration-of-Marketing-Strategies-in-Live-Stream-Sales
+# Research of Marketing Strategies in Live-Stream Sales and Their Impact on Consumer Purchase Intentions
 This project investigates how marketing strategies in live-stream sales influence consumer purchase intentions through structural equation modeling (SEM). Key aspects include:
 
 Survey Design: Collected and analyzed 500+ valid survey responses to identify factors such as interest, influencer impact, incentive mechanisms, and perceived usefulness.
